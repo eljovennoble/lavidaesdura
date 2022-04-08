@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427fa959a03d00445a86d753cbb5b0b4, type: 3}
+  m_Name: PersonajePrincipal
+  m_EditorClassIdentifier: 
+  Imagen_Personaje: {fileID: 0}
+  Nombre_Personaje: Lorenzito
+  descripcionPersonaje: "Joven muchacho que empieza sus primeros a\xF1os en la universidad"
+  Energia_Personaje: 100
+  Felicidad_Personaje: 23
+  Conocimiento_Personaje: 10
+  Dinero_Personaje: 36
+  Comida_Personaje: 0
+  Experiencia_Personaje: 199
+  Nivel_Personaje: 5
+  LevelUpState: 0
+  Criterio_Profesor: 1
+  Favor_Jefe: 1
+  Promedio_Personaje: 5
+  Estado_Personaje: 0

@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 52c09311c5af5cd4cab89c5e93f635db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4906981426147227509
+    second: casa_cuarto_tileset_0
+  - first:
+      213: 579909733803083388
+    second: casa_cuarto_tileset_1
+  - first:
+      213: 279300938713844043
+    second: casa_cuarto_tileset_2
+  - first:
+      213: -1725285870615519367
+    second: casa_cuarto_tileset_3
+  - first:
+      213: 4554959841732750000
+    second: casa_cuarto_tileset_4
+  - first:
+      213: -3025075650809288932
+    second: casa_cuarto_tileset_5
+  - first:
+      213: -190742577621524858
+    second: casa_cuarto_tileset_6
+  - first:
+      213: -4623895201555496643
+    second: casa_cuarto_tileset_7
+  - first:
+      213: 7781998920115526007
+    second: casa_cuarto_tileset_8
+  - first:
+      213: -8183812121796476619
+    second: casa_cuarto_tileset_9
+  - first:
+      213: 7416156638889784991
+    second: casa_cuarto_tileset_10
+  - first:
+      213: -645330485566906605
+    second: casa_cuarto_tileset_11
+  - first:
+      213: 1927778063629440134
+    second: casa_cuarto_tileset_12
+  - first:
+      213: -2187183618222193081
+    second: casa_cuarto_tileset_13
+  - first:
+      213: 7201838250801322761
+    second: casa_cuarto_tileset_14
+  - first:
+      213: 1568771079258748210
+    second: casa_cuarto_tileset_15
+  - first:
+      213: 8616608392624175217
+    second: casa_cuarto_tileset_16
+  - first:
+      213: -4266997065559708085
+    second: casa_cuarto_tileset_17
+  - first:
+      213: 8684606035003418546
+    second: casa_cuarto_tileset_18
+  - first:
+      213: -2209040920043874348
+    second: casa_cuarto_tileset_19
+  - first:
+      213: -432603661625391550
+    second: casa_cuarto_tileset_20
+  - first:
+      213: 7670494648553005367
+    second: casa_cuarto_tileset_21
+  - first:
+      213: 6659330219885074570
+    second: casa_cuarto_tileset_22
+  - first:
+      213: 8390224066211009029
+    second: casa_cuarto_tileset_23
+  - first:
+      213: 9098803052371873554
+    second: casa_cuarto_tileset_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 329
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b880e072466e6ebb0800000000000000
+      internalID: -4906981426147227509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 347
+        width: 54
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76cf1594d04c0800800000000000000
+      internalID: 579909733803083388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 347
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c87559b640e300800000000000000
+      internalID: 279300938713844043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 340
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f16f144ad8e08e0800000000000000
+      internalID: -1725285870615519367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 301
+        width: 5
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba66a4c7d7763f30800000000000000
+      internalID: 4554959841732750000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 291
+        width: 12
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1724de19b5c406d0800000000000000
+      internalID: -3025075650809288932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 335
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e9351e2a85a5df0800000000000000
+      internalID: -190742577621524858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 296
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31c6a800df94dfb0800000000000000
+      internalID: -4623895201555496643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 301
+        width: 28
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77995fb79c63ffb60800000000000000
+      internalID: 7781998920115526007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 53
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53109c32c324d6e80800000000000000
+      internalID: -8183812121796476619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 301
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f963eabab2b7be660800000000000000
+      internalID: 7416156638889784991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 301
+        width: 11
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fdd0da7535b07f0800000000000000
+      internalID: -645330485566906605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 301
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845c606fe7d0ca10800000000000000
+      internalID: 1927778063629440134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 301
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460051661095a1e0800000000000000
+      internalID: -2187183618222193081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 302
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b55dc6bb112f360800000000000000
+      internalID: 7201838250801322761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 266
+        width: 12
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235bf112cf465c510800000000000000
+      internalID: 1568771079258748210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 266
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178730b2ea7549770800000000000000
+      internalID: 8616608392624175217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 257
+        width: 6
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eeda1c6c498c4c0800000000000000
+      internalID: -4266997065559708085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 207
+        width: 58
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a7920d2be58870800000000000000
+      internalID: 8684606035003418546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 208
+        width: 58
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d79b7abcf8e751e0800000000000000
+      internalID: -2209040920043874348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 216
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246094403451ff9f0800000000000000
+      internalID: -432603661625391550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 206
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731698a2e32137a60800000000000000
+      internalID: 7670494648553005367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8816466d81ba6c50800000000000000
+      internalID: 6659330219885074570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 117
+        width: 256
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502d07cb550107470800000000000000
+      internalID: 8390224066211009029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casa_cuarto_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 72
+        width: 256
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f8dd92b21754e70800000000000000
+      internalID: 9098803052371873554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
